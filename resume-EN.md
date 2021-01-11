@@ -22,8 +22,8 @@
 
 ---
 <ol>
-  <li> trade on Tehran Stock Exchange and Forex</li>
-  <li>psychologist</li>
+  <li> Computer programmer</li>
+  <li>Futsalist</li>
 </ol>
 
 ### Education
@@ -43,7 +43,7 @@
   <li> Trade</li>
   <li> read book</li>
   <li> travel </li>
-  <li> psychologist</li>
+  <li> psychology</li>
 </ol>
 
 ### Speaking language
@@ -58,21 +58,16 @@
 
 ---
 <ol>
- <li> Android</li>
- <li> IOS</li>
  <li> Java Script</li>
  <li> C</li>
  <li> C++</li>
- <li> HTML</li>
- <li> CSS</li>
- <li> SQL</li>
 </ol>
 
 ### working Experience
 
 ---
 <ol>
-  <li> I am working in insurance </li>
+  <li> I worked for an insurance company </li>
 </ol>
 
 ### [contact with me] FATEMEHARDESTANI77@GMAIL.COM
