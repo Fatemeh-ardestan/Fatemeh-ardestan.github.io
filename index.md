@@ -2,11 +2,6 @@
 ---
 [EN](resume-EN.md)<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
 
-<style type="text/css">
-body{
- direction:rtl;
-}
-</style>
 ### فاطمه اردستانی
 <a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/mq4_۲۰۲۱۰۱۱۱_۲۰۴۸۴۲.jpg" border="0" alt="آپلود عکس" /></a>
 
