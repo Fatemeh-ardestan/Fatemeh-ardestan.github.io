@@ -1,6 +1,6 @@
 
 ---
-[FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
+[EN](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
 ### Fatemeh Ardestani<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/nyu1_۲۰۲۱۰۱۱۱_۲۰۴۸۴۲.jpg" border="0" alt="آپلود عکس" /></a>
 
