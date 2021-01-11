@@ -13,7 +13,8 @@
   <li> Last name : Ardestani</li>
   <li> Date of birth : 1998/08/22</li>
   <li> Martial status : Single</li>
-  <li> I am a futsalist and Computer engineering student</li>
+  <li> Computer engineering student</li>
+  <li> Futsulist</li>
   <li> Location : Tehran , I.R.Iran</li>
 </ol>
 
